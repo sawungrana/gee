@@ -1,7 +1,8 @@
 # GEE Files: Tutorial & Usage
 
 Earth Engine repository of Azzadiva Sawungrana. Articles are written on :
-spatialmate.com & medium.com/@azzadivasawungrana
+https://spatialmate.com and
+https://medium.com/@azzadivasawungrana
 
 Tutorials are mainly written in Bahasa while Usage are in English.
 Feel free to reach me on :
